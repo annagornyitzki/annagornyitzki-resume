@@ -14,7 +14,7 @@ It highlights my academic background, technical skills, and professional experie
 ---
 
 ## 🧰 Contents
-- `AnnaGornyitkiResume.pdf` — Main version for professional applications  
+- [AnnaGornyitkiResume.pdf](https://github.com/annagornyitzki/annagornyitzki-resume/blob/main/AnnaGornyitzkiResume.pdf) — Main version for professional applications  
 
 ---
 
