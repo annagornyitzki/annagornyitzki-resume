@@ -2,7 +2,7 @@
 
 📍 **UC Santa Barbara**  
 🎓 B.S. in Computer Science  
-📧 annagornyitzki@ucsb.edu  
+📧 annagornyitzki@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/annagornyitzki) • [GitHub](https://github.com/annagornyitzki)
 
 ---
